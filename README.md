@@ -56,4 +56,4 @@ The pipeline generates the following outputs:
     *   List of neighborhoods within each identified cluster.
 
 ## Authorship
-This pipeline and its associated scripts were solely developed by Philipp Trollmann during their first PhD rotation in Dr. Pinghua Liu's lab at Boston University.
+This pipeline and its associated scripts were solely developed by Philipp Trollmann during his first PhD rotation in Dr. Pinghua Liu's lab at Boston University.
